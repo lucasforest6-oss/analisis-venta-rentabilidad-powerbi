@@ -1,10 +1,10 @@
 # 📊 Análisis de Ventas y Rentabilidad – Power BI
 
-Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI para analizar datos de ventas y rentabilidad, con el objetivo de identificar tendencias, evaluar el rendimiento y facilitar la toma de decisiones.
+Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI para analizar el desempeño comercial de un supermercado a partir de sus ventas, costos y márgenes de ganancia.
 
 ## 🎯 Objetivo
 
-Analizar datos de ventas para identificar patrones, evaluar la rentabilidad y visualizar métricas clave que permitan entender el desempeño del negocio.
+Analizar el desempeño comercial para identificar productos y categorías más rentables, detectar patrones de venta y generar información útil para la toma de decisiones estratégicas.
 
 ## 🔧 Herramientas utilizadas
 
@@ -13,23 +13,23 @@ Analizar datos de ventas para identificar patrones, evaluar la rentabilidad y vi
 
 ## 📈 Análisis realizado
 
-- Análisis de ventas  
+- Análisis de ventas y facturación  
 - Evaluación de rentabilidad  
-- Identificación de productos o segmentos más relevantes  
-- Creación de KPIs  
-- Visualización de datos mediante dashboard interactivo  
+- Identificación de KPIs clave (facturación, ganancia, margen, ticket promedio)  
+- Análisis de productos y categorías  
+- Visualización interactiva mediante dashboard  
 
 ## 📊 Principales insights
 
-- Identificación de tendencias en ventas  
-- Detección de variaciones en la rentabilidad  
-- Visualización de métricas clave para la toma de decisiones  
-- Comparación entre diferentes segmentos o categorías  
+- Identificación de productos con mayor facturación  
+- Detección de categorías más rentables  
+- Análisis de la evolución de ventas en el tiempo  
+- Relación entre volumen de ventas y rentabilidad  
 
 ## 📊 Dashboard
 
-![Dashboard](Captura de pantalla (5).png)
+![Portada](02-portada-objetivo.png)
 
-![Grafico](Captura de pantalla (6).png)
+![KPIs](03-dashboard-kpis.png)
 
-![Vista adicional](Captura de pantalla (7).png)
+![Análisis](04-analisis-productos.png)
